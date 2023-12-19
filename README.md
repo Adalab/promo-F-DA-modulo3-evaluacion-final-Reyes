@@ -7,19 +7,19 @@ El ejercicio consta de 3 fases que versan sobre el proceso de EDA incluyendo apa
 
 ## Fase 1: Exploración y Limpieza
 
-    Exploración Inicial:
+- Exploración Inicial:
     
-        - Investigación Detallada: Empleo funciones de Pandas para sumergirme en la estructura de los datos, identificando posibles problemas como valores nulos y datos atípicos.
+    Investigación Detallada: Empleo funciones de Pandas para sumergirme en la estructura de los datos, identificando posibles problemas como valores nulos y datos atípicos.
 
-        - Eficiencia en la Unión de Datos: Fusiono los conjuntos de datos de manera inteligente para obtener una visión global.
+    Eficiencia en la Unión de Datos: Fusiono los conjuntos de datos de manera inteligente para obtener una visión global.
 
-    Limpieza de Datos:
+- Limpieza de Datos:
 
-        - Manejo de Valores Nulos: Desarrollo estrategias sólidas para abordar los valores nulos en columnas clave, asegurando la integridad de los datos.
+    Manejo de Valores Nulos: Desarrollo estrategias sólidas para abordar los valores nulos en columnas clave, asegurando la integridad de los datos.
 
-        - Garantía de Consistencia: Verifico y corrijo la consistencia de los datos para presentarlos de manera coherente.
+    Garantía de Consistencia: Verifico y corrijo la consistencia de los datos para presentarlos de manera coherente.
 
-        - Optimización de Columnas: Realizo ajustes y conversiones necesarios para preparar los datos de manera óptima para el análisis estadístico.
+    Optimización de Columnas: Realizo ajustes y conversiones necesarios para preparar los datos de manera óptima para el análisis estadístico.
 
 ## Fase 2: Visualización
 
